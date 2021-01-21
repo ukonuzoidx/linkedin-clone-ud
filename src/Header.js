@@ -21,7 +21,7 @@ function Header() {
         <div className="header">
 
             <div className="header__left">
-            <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611166215~hmac=409cca574e58df1db4048f63691ecf15" alt="" />
+            <img src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="" />
 
             <div className="header__search">
             {/* SearchIcon */}
