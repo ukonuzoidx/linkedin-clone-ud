@@ -1,8 +1,8 @@
 {
   "name": "linkedin-clone",
   "version": "0.1.0",
+  "homepage": "http://ukonuzoidx.github.io/linkedin-clone-ud",
   "private": true,
-  "homepage": "https://ukonuzoidx.github.io/linkedin-clone-ud",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
@@ -22,6 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
